@@ -250,6 +250,8 @@ class PlayState extends MusicBeatState
 
 	override public function create()
 	{
+		FlxG.mouse.visible = false;
+		
 		#if MODS_ALLOWED
 		Paths.destroyLoadedImages(resetSpriteCache);
 		#end
@@ -308,7 +310,7 @@ class PlayState extends MusicBeatState
 		if(PlayState.SONG.stage == null || PlayState.SONG.stage.length < 1) {
 			switch (songName)
 			{
-				case 'plung-in' | 'domainer' | 'ron':
+				case 'plung-in' | 'domainer':
 					curStage = 'white';
 				case 'the-hell':
 					curStage = 'hell';	
@@ -3818,41 +3820,23 @@ class PlayState extends MusicBeatState
 			gf.dance();
 		}
 
-		if (curBeat == 2 && curSong == 'Ron')
-			{
-				var bruh:FlxSprite = new FlxSprite();
-				bruh.loadGraphic(Paths.image('longbob'));
-				bruh.antialiasing = true;
-				bruh.active = false;
-				bruh.scrollFactor.set();
-				bruh.screenCenter();
-				add(bruh);
-				FlxTween.tween(bruh, {alpha: 0},1, {
-					ease: FlxEase.cubeInOut,
-					onComplete: function(twn:FlxTween)
+				if (curBeat == 227 && curSong == 'The-Hell')
 					{
-						bruh.destroy();
-					}
-				});
-			}
-			if (curSong == 'Ron')
-				{
-					if (curBeat == 7)
-					{
-						FlxTween.tween(FlxG.camera, {zoom: 1.5}, 0.4, {ease: FlxEase.expoOut,});
-						dad.playAnim('hey', true);
-					}
-					else if (curBeat == 119)
-					{
-						FlxTween.tween(FlxG.camera, {zoom: 1.5}, 0.4, {ease: FlxEase.expoOut,});
-						dad.playAnim('hey', true);
-					}
-					else if (curBeat == 215)
-					{
-						FlxTween.tween(FlxG.camera, {zoom: 1.5}, 0.4, {ease: FlxEase.expoOut,});
-						dad.playAnim('hey', true);
-					}
-				}
+						var bruh:FlxSprite = new FlxSprite();
+						bruh.loadGraphic(Paths.image('longbob'));
+						bruh.antialiasing = true;
+						bruh.active = false;
+						bruh.scrollFactor.set();
+						bruh.screenCenter();
+						add(bruh);
+						FlxTween.tween(bruh, {alpha: 0},1, {
+							ease: FlxEase.cubeInOut,
+							onComplete: function(twn:FlxTween)
+							{
+								bruh.destroy();
+							}
+						});
+					}			
 
 		if(curBeat % 2 == 0) {
 			if (boyfriend.animation.curAnim.name != null && !boyfriend.animation.curAnim.name.startsWith("sing"))

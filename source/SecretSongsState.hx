@@ -63,14 +63,14 @@ class SecretSongsState extends MusicBeatState
 		DiscordClient.changePresence("In the Cool Freeplay Menu", "Choosing a Cool Song");
 		#end
 
-		songs.push(new SongMetadata('Ron', 2, 'plunger', 0xFFFFD800));
+		//SONGS
+
 		songs.push(new SongMetadata('Spookeez', 2, 'plunger', 0xFF00137F));
 		songs.push(new SongMetadata('Plung-Test', 2, 'plunger-pixel', 0xFFFF0000));
 
-		// LOAD MUSIC
+        //SONGS - END
 
-		// LOAD CHARACTERS
-
+		
 		bg = new FlxSprite().loadGraphic(Paths.image('freeplayBG'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);

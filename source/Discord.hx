@@ -76,7 +76,8 @@ class DiscordClient
 			state: state,
 			largeImageKey: 'icon',
 			largeImageText: "Psych Engine Version: " + MainMenuState.psychEngineVersion,
-			smallImageKey : smallImageKey,
+			smallImageKey : 'icon-small',
+			smallImageText:"Vs. Plunger Version: " + MainMenuState.modVersion,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp : Std.int(startTimestamp / 1000),
             endTimestamp : Std.int(endTimestamp / 1000)

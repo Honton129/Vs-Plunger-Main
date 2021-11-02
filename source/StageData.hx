@@ -32,7 +32,7 @@ class StageData {
 		} else if(SONG.song != null) {
 			switch (SONG.song.toLowerCase().replace(' ', '-'))
 			{
-				case 'plung-in' | 'domainer' | 'ron':
+				case 'plung-in' | 'domainer':
 					stage = 'white';
 				case 'the-hell':
 					stage = 'hell';	
