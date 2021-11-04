@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Plunger Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Plunger Idle Dance",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-101
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Plunger Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Plunger Down Note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-142
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Plunger Down Note",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Plunger Up Note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				-50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Plunger Up Note",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				25,
+				-101
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Plunger Left Note",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Plunger Right Note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-98
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Plunger Right Note",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "plunger dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Plunger_Hell_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "plunger-hell",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

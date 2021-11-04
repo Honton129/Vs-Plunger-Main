@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Plunger Idle Dance"
+		},
+		{
+			"offsets": [
+				2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Plunger Down Note"
+		},
+		{
+			"offsets": [
+				2,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Plunger Up Note"
+		},
+		{
+			"offsets": [
+				-10,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Plunger Left Note"
+		},
+		{
+			"offsets": [
+				224,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Plunger Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ronger_Assets",
+	"position": [
+		140,
+		420
+	],
+	"healthicon": "plunger",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		0,
+		9
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

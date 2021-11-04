@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Plunger Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Plunger Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Plunger Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Plunger Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Plunger Hey"
+		},
+		{
+			"offsets": [
+				41,
+				20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "Plunger Spooky Dance"
+		},
+		{
+			"offsets": [
+				41,
+				20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				4,
+				6
+			],
+			"name": "Plunger Spooky Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spooky_Plunger_Assets",
+	"position": [
+		160,
+		410
+	],
+	"healthicon": "plunger",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		0,
+		9
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Plunger Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Plunger Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Plunger Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Plunger Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Plunger Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				83,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Plunger Hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Plunger_Assets",
+	"position": [
+		140,
+		420
+	],
+	"healthicon": "plunger",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		0,
+		9
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
