@@ -1,0 +1,43 @@
+{
+	"storyName": "Plunger Domains",
+	"hideFreeplay": false,
+	"weekBackground": "white",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"plunger",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Plung In",
+			"plunger",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Domainer",
+			"plunger-angry",
+			[
+				115,
+				0,
+				0
+			]
+		],
+		[
+			"The Hell",
+			"plunger-hell",
+			[
+				80,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Plunger"
+}
