@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Plunger Idle",
+	"confirm_anim": "M Plunger Hey",
+	"position": [
+		-9,
+		-61
+	],
+	"scale": 0.95,
+	"image": "Menu_Plunger"
+}
