@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				111,
+				8
+			],
+			"idle_offsets": [
+				111,
+				-31
+			],
+			"loop_name": "Plunger Normal Talk",
+			"idle_name": "Plunger Normal0"
+		},
+		{
+			"loop_name": "Plunger Miss Talk",
+			"idle_offsets": [
+				110,
+				-31
+			],
+			"idle_name": "Plunger Miss0",
+			"anim": "miss",
+			"loop_offsets": [
+				110,
+				9
+			]
+		},
+		{
+			"loop_name": "Plunger Angry Talk",
+			"idle_offsets": [
+				111,
+				-31
+			],
+			"idle_name": "Plunger Angry0",
+			"anim": "angry",
+			"loop_offsets": [
+				111,
+				10
+			]
+		},
+		{
+			"loop_name": "Plunger Cool Talk",
+			"idle_offsets": [
+				111,
+				-31
+			],
+			"idle_name": "Plunger Cool0",
+			"anim": "cool",
+			"loop_offsets": [
+				111,
+				9
+			]
+		},
+		{
+			"loop_name": "Plunger Dialogue Spooky",
+			"idle_offsets": [
+				168,
+				-14
+			],
+			"idle_name": "Plunger Dialogue Spooky",
+			"anim": "spooky",
+			"loop_offsets": [
+				168,
+				-13
+			]
+		},
+		{
+			"loop_name": "Plunger Nerverous Talk",
+			"idle_offsets": [
+				111,
+				-31
+			],
+			"idle_name": "Plunger Nerveous0",
+			"anim": "nerveous",
+			"loop_offsets": [
+				111,
+				9
+			]
+		}
+	],
+	"image": "PLUNGER_Dialogue"
+}
