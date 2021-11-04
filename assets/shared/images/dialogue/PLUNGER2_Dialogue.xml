@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLUNGER2_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Plunger Angry0000" x="10" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry0001" x="10" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry0002" x="198" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry0003" x="198" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry0004" x="386" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry0005" x="386" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Angry Talk0000" x="574" y="10" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Angry Talk0001" x="574" y="10" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Angry Talk0002" x="762" y="10" width="178" height="374"/>
+	<SubTexture name="Plunger Angry Talk0003" x="762" y="10" width="178" height="374"/>
+	<SubTexture name="Plunger Angry Talk0004" x="950" y="10" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Angry Talk0005" x="950" y="10" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Cool0000" x="1138" y="10" width="178" height="327"/>
+	<SubTexture name="Plunger Cool Talk0000" x="1326" y="10" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Cool Talk0001" x="1326" y="10" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Cool Talk0002" x="1514" y="10" width="178" height="374"/>
+	<SubTexture name="Plunger Cool Talk0003" x="1514" y="10" width="178" height="374"/>
+	<SubTexture name="Plunger Cool Talk0004" x="1702" y="10" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Cool Talk0005" x="1702" y="10" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Dialogue Spooky0000" x="10" y="394" width="250" height="339" frameX="-42" frameY="-7" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0001" x="10" y="394" width="250" height="339" frameX="-42" frameY="-7" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0002" x="270" y="394" width="256" height="328" frameX="-27" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0003" x="270" y="394" width="256" height="328" frameX="-27" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0004" x="536" y="394" width="224" height="302" frameX="-16" frameY="-45" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0005" x="536" y="394" width="224" height="302" frameX="-16" frameY="-45" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0006" x="770" y="394" width="220" height="328" frameX="-19" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0007" x="770" y="394" width="220" height="328" frameX="-19" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0008" x="1000" y="394" width="217" height="346" frameX="0" frameY="0" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0009" x="1000" y="394" width="217" height="346" frameX="0" frameY="0" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0010" x="1227" y="394" width="209" height="328" frameX="-7" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0011" x="1227" y="394" width="209" height="328" frameX="-7" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0012" x="536" y="394" width="224" height="302" frameX="-16" frameY="-45" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0013" x="536" y="394" width="224" height="302" frameX="-16" frameY="-45" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0014" x="770" y="394" width="220" height="328" frameX="-19" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Dialogue Spooky0015" x="770" y="394" width="220" height="328" frameX="-19" frameY="-18" frameWidth="292" frameHeight="347"/>
+	<SubTexture name="Plunger Miss0000" x="1446" y="394" width="182" height="327"/>
+	<SubTexture name="Plunger Miss0001" x="1446" y="394" width="182" height="327"/>
+	<SubTexture name="Plunger Miss0002" x="1638" y="394" width="182" height="327"/>
+	<SubTexture name="Plunger Miss0003" x="1638" y="394" width="182" height="327"/>
+	<SubTexture name="Plunger Miss Talk0000" x="1830" y="394" width="183" height="327" frameX="0" frameY="-46" frameWidth="184" frameHeight="374"/>
+	<SubTexture name="Plunger Miss Talk0001" x="1830" y="394" width="183" height="327" frameX="0" frameY="-46" frameWidth="184" frameHeight="374"/>
+	<SubTexture name="Plunger Miss Talk0002" x="10" y="750" width="184" height="374"/>
+	<SubTexture name="Plunger Miss Talk0003" x="10" y="750" width="184" height="374"/>
+	<SubTexture name="Plunger Miss Talk0004" x="204" y="750" width="184" height="358" frameX="0" frameY="-16" frameWidth="184" frameHeight="374"/>
+	<SubTexture name="Plunger Miss Talk0005" x="204" y="750" width="184" height="358" frameX="0" frameY="-16" frameWidth="184" frameHeight="374"/>
+	<SubTexture name="Plunger Nerveous0000" x="398" y="750" width="178" height="327"/>
+	<SubTexture name="Plunger Nerverous Talk0000" x="586" y="750" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Nerverous Talk0001" x="586" y="750" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Nerverous Talk0002" x="774" y="750" width="178" height="374"/>
+	<SubTexture name="Plunger Nerverous Talk0003" x="774" y="750" width="178" height="374"/>
+	<SubTexture name="Plunger Nerverous Talk0004" x="962" y="750" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Nerverous Talk0005" x="962" y="750" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Normal0000" x="1150" y="750" width="178" height="327"/>
+	<SubTexture name="Plunger Normal Talk 0000" x="1338" y="750" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Normal Talk 0001" x="1338" y="750" width="178" height="327" frameX="0" frameY="-46" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Normal Talk 0002" x="1526" y="750" width="178" height="374"/>
+	<SubTexture name="Plunger Normal Talk 0003" x="1526" y="750" width="178" height="374"/>
+	<SubTexture name="Plunger Normal Talk 0004" x="1714" y="750" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+	<SubTexture name="Plunger Normal Talk 0005" x="1714" y="750" width="178" height="356" frameX="0" frameY="-18" frameWidth="178" frameHeight="374"/>
+</TextureAtlas>

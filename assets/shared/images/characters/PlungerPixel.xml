@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlungerPixel.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Plunger Down Note0000" x="10" y="10" width="372" height="272" frameX="-10" frameY="-48" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0001" x="10" y="10" width="372" height="272" frameX="-10" frameY="-48" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0002" x="392" y="10" width="376" height="288" frameX="-4" frameY="-32" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0003" x="392" y="10" width="376" height="288" frameX="-4" frameY="-32" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0004" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0005" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0006" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0007" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0008" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0009" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0010" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0011" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0012" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0013" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Down Note0014" x="778" y="10" width="376" height="324" frameX="0" frameY="0" frameWidth="382" frameHeight="324"/>
+	<SubTexture name="Plunger Hey0000" x="1164" y="10" width="264" height="344"/>
+	<SubTexture name="Plunger Hey0001" x="1164" y="10" width="264" height="344"/>
+	<SubTexture name="Plunger Hey0002" x="1438" y="10" width="240" height="328" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0003" x="1438" y="10" width="240" height="328" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0004" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0005" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0006" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0007" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0008" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0009" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0010" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0011" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0012" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0013" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Hey0014" x="1688" y="10" width="252" height="332" frameX="0" frameY="0" frameWidth="264" frameHeight="344"/>
+	<SubTexture name="Plunger Idle Dance0000" x="10" y="364" width="296" height="284" frameX="0" frameY="-43" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0001" x="10" y="364" width="296" height="284" frameX="0" frameY="-43" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0002" x="316" y="364" width="292" height="272" frameX="-8" frameY="-56" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0003" x="316" y="364" width="292" height="272" frameX="-8" frameY="-56" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0004" x="618" y="364" width="284" height="296" frameX="-12" frameY="-32" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0005" x="618" y="364" width="284" height="296" frameX="-12" frameY="-32" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0006" x="912" y="364" width="268" height="320" frameX="-26" frameY="-8" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0007" x="912" y="364" width="268" height="320" frameX="-26" frameY="-8" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0008" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0009" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0010" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0011" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0012" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Idle Dance0013" x="1190" y="364" width="264" height="328" frameX="-31" frameY="0" frameWidth="300" frameHeight="328"/>
+	<SubTexture name="Plunger Left Note0000" x="1464" y="364" width="384" height="356" frameX="-14" frameY="0" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0001" x="1464" y="364" width="384" height="356" frameX="-14" frameY="0" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0002" x="10" y="730" width="388" height="344" frameX="-4" frameY="-13" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0003" x="10" y="730" width="388" height="344" frameX="-4" frameY="-13" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0004" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0005" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0006" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0007" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0008" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0009" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0010" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0011" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0012" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0013" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Left Note0014" x="408" y="730" width="384" height="336" frameX="0" frameY="-23" frameWidth="398" frameHeight="359"/>
+	<SubTexture name="Plunger Right Note0000" x="802" y="730" width="312" height="336" frameX="0" frameY="0" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0001" x="802" y="730" width="312" height="336" frameX="0" frameY="0" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0002" x="1124" y="730" width="304" height="336" frameX="-8" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0003" x="1124" y="730" width="304" height="336" frameX="-8" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0004" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0005" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0006" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0007" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0008" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0009" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0010" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0011" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0012" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0013" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Right Note0014" x="1438" y="730" width="304" height="336" frameX="-10" frameY="-5" frameWidth="314" frameHeight="341"/>
+	<SubTexture name="Plunger Up Note0000" x="1752" y="730" width="260" height="364" frameX="-2" frameY="0" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0001" x="1752" y="730" width="260" height="364" frameX="-2" frameY="0" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0002" x="10" y="1104" width="268" height="344" frameX="0" frameY="-27" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0003" x="10" y="1104" width="268" height="344" frameX="0" frameY="-27" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0004" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0005" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0006" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0007" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0008" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0009" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0010" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0011" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0012" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0013" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+	<SubTexture name="Plunger Up Note0014" x="288" y="1104" width="264" height="356" frameX="0" frameY="-13" frameWidth="268" frameHeight="371"/>
+</TextureAtlas>
